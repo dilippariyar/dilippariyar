@@ -11,8 +11,7 @@ I specialize in digital accessibility, standard compliance (WCAG 2.1 / 2.2, Sect
 - **Accessibility Auditing:** WCAG 2.1 / 2.2, ARIA Roles, Screen Reader Testing (NVDA, JAWS, VoiceOver), Color Contrast
 - **Development & Scripting:** HTML5, CSS3, JavaScript, Node.js, Shell Scripting, Batch
 - **Version Control & Tools:** Git, GitHub, Command Line (CMD / PowerShell)
-- **Data & Automation:** Google Sheets API, Apps Script, Advanced Formulas
-
+- **Data & Automation:** Custom Tools, Bookmarklets, Chrome Extensions, 
 ---
 
 ## 📋 What I Do
@@ -27,7 +26,7 @@ I specialize in digital accessibility, standard compliance (WCAG 2.1 / 2.2, Sect
 ## 📬 Connect with Me
 
 - **GitHub:** [@dilippariyar](https://github.com/dilippariyar)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Dilip Pariyar](https://linkedin.com/in/dilip-pariyar)
 
 ---
 
